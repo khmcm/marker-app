@@ -1,0 +1,119 @@
+@import 'styles/_colors.scss';
+
+.shared-markerCard {
+    position: relative;
+    width: 64px;
+    height: 64px;
+    border-radius: 32px;
+    background: black;
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+    transform-origin: 50% 50%;
+    transition: transform 300ms;
+    display: inline-block;
+    font-weight: bold;
+    user-select: none;
+    cursor: pointer;
+    &:hover {
+        transform: scale(1.2);
+    }
+}
+.shared-markerCard__label {
+    font-family: 'Inter';
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+}
+.shared-markerCard__colorFamily {
+    color: unset;
+}
+.shared-markerCard__optionsMenu {
+    top: 50vh;
+    left: 50vw;
+    transform: translateX(-50%) translateY(-50%);
+    width: 300px;
+    height: 530px;
+    background: white;
+    border-radius: 3px;
+    position: absolute;
+    z-index: 1;
+    font-family: 'Inter';
+}
+.shared-markerCard__optionsMenuContainer {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.8);
+    z-index: 2;
+}
+.shared-markerCard__optionsMenuLabel {
+    position: relative;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    top: 40px;
+    cursor: pointer;
+}
+.shared-markerCard__optionsMenuColorCircle {
+    align-items: center;
+    border-radius: 75px;
+    display: flex;
+    flex-direction: column;
+    font-size: 30px;
+    font-weight: bold;
+    height: 150px;
+    justify-content: center;
+    left: 50%;
+    position: relative;
+    top: 65px;
+    transform: translateX(-50%);
+    width: 150px;
+    cursor: pointer;
+}
+.shared-markerCard__optionsMenuButton {
+    background: white;
+    position: relative;
+    padding: 10px 7px 10px 7px;
+    width: 70%;
+    color: black;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-radius: 32px;
+    border: none;
+    font-size: 19px;
+    font-weight: normal;
+    left: 50%;
+    transform: translateX(-50%);
+    font-weight: bold;
+    cursor: pointer;
+    top: 96px;
+
+    &:hover {
+        background: $options-menu-button-hover-background;
+    }
+}
+.shared-markerCard__optionsMenuExitButton {
+    cursor: pointer;
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    border-radius: 32px;
+    padding: 4px;
+    opacity: 0.1;
+    &:hover {
+        background: rgb(245, 245, 245);
+    }
+}
+.shared-markerCard__attributeLabelStyle {
+    z-index: -10;
+    left: -10000px;
+    top: -10000px;
+    opacity: 0.0;
+    position: absolute;
+}
+.shared-markerCard__spacer-8px {
+    padding-top: 8px;
+}

@@ -1,0 +1,36 @@
+.shared-menuBar {
+    background: rgba(255, 255, 255, 0.9);
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    width: 100vw;
+    height: 80px;
+    z-index: 1;
+}
+
+.shared-menuBar__searchBox {
+    background: rgb(235, 235, 235);
+    color: rgb(127, 127, 127);
+    border-radius: 32px;
+    width: 80vw;
+    border: none;
+    padding: 16px;
+    font-size: 16px;
+    font-weight: bold;
+    max-width: 600px;
+    position: relative;
+    text-align: center;
+    &::placeholder {
+        color: rgb(200, 200, 200);
+    }
+}
+
+.shared-menuBar__overlay {
+    width: 100vw;
+    height: 100vh;
+    top: -100vh;
+    background: white;
+}

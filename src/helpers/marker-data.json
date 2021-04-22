@@ -1,0 +1,721 @@
+[{
+    "name": "Pale Thistle",
+    "family": "BV0000",
+    "color": "#eeecf5"
+}, {
+    "name": "Iridescent Mauve",
+    "family": "BV000",
+    "color": "#eee7f1"
+}, {
+    "name": "Mauve Shadow",
+    "family": "BV00",
+    "color": "#e9e3f0"
+}, {
+    "name": "Viola",
+    "family": "BV01",
+    "color": "#c8c4df"
+}, {
+    "name": "Prune",
+    "family": "BV02",
+    "color": "#bec4df"
+}, {
+    "name": "Blue Berry",
+    "family": "BV04",
+    "color": "#92a4ce"
+}, {
+    "name": "Blue Violet",
+    "family": "BV08",
+    "color": "#b08cb9"
+}, {
+    "name": "Soft Violet",
+    "family": "BV11",
+    "color": "#e0dcec"
+}, {
+    "name": "Hydrangea Blue",
+    "family": "BV13",
+    "color": "#989ec9"
+}, {
+    "name": "Deep Reddish Blue",
+    "family": "BV17",
+    "color": "#7e90bd"
+}, {
+    "name": "Dull Lavender",
+    "family": "BV20",
+    "color": "#dce3f2"
+}, {
+    "name": "Grayish Lavender",
+    "family": "BV23",
+    "color": "#c4cde1"
+}, {
+    "name": "Grayish Violet",
+    "family": "BV25",
+    "color": "#908fac"
+}, {
+    "name": "Slate",
+    "family": "BV29",
+    "color": "#2e4256"
+}, {
+    "name": "Pale Lavender",
+    "family": "BV31",
+    "color": "#e6e8f4"
+}, {
+    "name": "Bluebell",
+    "family": "BV34",
+    "color": "#7f92bd"
+}, {
+    "name": "Rose Quartz",
+    "family": "V0000",
+    "color": "#f3f1f8"
+}, {
+    "name": "Pale Heath",
+    "family": "V000",
+    "color": "#f7f2f7"
+}, {
+    "name": "Heath",
+    "family": "V01",
+    "color": "#edccde"
+}, {
+    "name": "Lilac",
+    "family": "V04",
+    "color": "#edb9d1"
+}, {
+    "name": "Azalea",
+    "family": "V05",
+    "color": "#ecb4ce"
+}, {
+    "name": "Lavender",
+    "family": "V06",
+    "color": "#dba5c6"
+}, {
+    "name": "Violet",
+    "family": "V09",
+    "color": "#97599a"
+}, {
+    "name": "Pale Lilac",
+    "family": "V12",
+    "color": "#f2dfeb"
+}, {
+    "name": "Mallow",
+    "family": "V15",
+    "color": "#e0b6d1"
+}, {
+    "name": "Amethyst",
+    "family": "V17",
+    "color": "#b3a1c7"
+}, {
+    "name": "Wisteria",
+    "family": "V20",
+    "color": "#d5ccd6"
+}, {
+    "name": "Ash Lavender",
+    "family": "V22",
+    "color": "#7b6f90"
+}, {
+    "name": "Pale Blackberry",
+    "family": "V25",
+    "color": "#b6aec6"
+}, {
+    "name": "Eggplant",
+    "family": "V28",
+    "color": "#787aa0"
+}, {
+    "name": "Pale Grape",
+    "family": "V91",
+    "color": "#efd0d8"
+}, {
+    "name": "Early Grape",
+    "family": "V93",
+    "color": "#edcddf"
+}, {
+    "name": "Light Grape",
+    "family": "V95",
+    "color": "#c589aa"
+}, {
+    "name": "Aubergine",
+    "family": "V99",
+    "color": "#4f334d"
+}, {
+    "name": "Evening Primrose",
+    "family": "RV0000",
+    "color": "#f7e9f1"
+}, {
+    "name": "Pale Purple",
+    "family": "RV000",
+    "color": "#f7e9f1"
+}, {
+    "name": "Water Lily",
+    "family": "RV00",
+    "color": "#f3d3e9"
+}, {
+    "name": "Sugared Almond Pink",
+    "family": "RV02",
+    "color": "#fcdee9"
+}, {
+    "name": "Shock Pink",
+    "family": "RV04",
+    "color": "#f9b0c5"
+}, {
+    "name": "Cerise",
+    "family": "RV06",
+    "color": "#f692b3"
+}, {
+    "name": "Fuchsia",
+    "family": "RV09",
+    "color": "#e87cac"
+}, {
+    "name": "Pale Pink",
+    "family": "RV10",
+    "color": "#fef1f5"
+}, {
+    "name": "Pink",
+    "family": "RV11",
+    "color": "#fcdfe3"
+}, {
+    "name": "Tender Pink",
+    "family": "RV13",
+    "color": "#fcd3de"
+}, {
+    "name": "Begonia Pink",
+    "family": "RV14",
+    "color": "#f8a0bc"
+}, {
+    "name": "Deep Magenta",
+    "family": "RV17",
+    "color": "#e58bb5"
+}, {
+    "name": "Red Violet",
+    "family": "RV19",
+    "color": "#de73a7"
+}, {
+    "name": "Light Pink",
+    "family": "RV21",
+    "color": "#feeeed"
+}, {
+    "name": "Pure Pink",
+    "family": "RV23",
+    "color": "#fbc6cf"
+}, {
+    "name": "Dog Rose Flower",
+    "family": "RV25",
+    "color": "#f8a1c1"
+}, {
+    "name": "Crimson",
+    "family": "RV29",
+    "color": "#f14a81"
+}, {
+    "name": "Shadow Pink",
+    "family": "RV32",
+    "color": "#fddcd7"
+}, {
+    "name": "Dark Pink",
+    "family": "RV34",
+    "color": "#fbbcb8"
+}, {
+    "name": "Salmon Pink",
+    "family": "RV42",
+    "color": "#fbc7bf"
+}, {
+    "name": "Cotton Candy",
+    "family": "RV52",
+    "color": "#dc9cb6"
+}, {
+    "name": "Hollyhock",
+    "family": "RV55",
+    "color": "#d96196"
+}, {
+    "name": "Begonia",
+    "family": "RV63",
+    "color": "#dB8ab5"
+}, {
+    "name": "Raspberry",
+    "family": "RV66",
+    "color": "#8d3765"
+}, {
+    "name": "Peony",
+    "family": "RV69",
+    "color": "#9c6276"
+}, {
+    "name": "Grayish Cherry",
+    "family": "RV91",
+    "color": "#eddee8"
+}, {
+    "name": "Smoky Purple",
+    "family": "RV93",
+    "color": "#eec3d2"
+}, {
+    "name": "Baby Blossoms",
+    "family": "RV95",
+    "color": "#c694aa"
+}, {
+    "name": "Argyle Purple",
+    "family": "RV99",
+    "color": "#6e5764"
+}, {
+    "name": "Pink Beryl",
+    "family": "R0000",
+    "color": "#fcf6f2"
+}, {
+    "name": "Cherry White",
+    "family": "R000",
+    "color": "#fff6f2"
+}, {
+    "name": "Pinkish White",
+    "family": "R00",
+    "color": "#fff5ef"
+}, {
+    "name": "Pinkish Vanilla",
+    "family": "R01",
+    "color": "#fde0da"
+}, {
+    "name": "Rose Salmon",
+    "family": "R02",
+    "color": "#fedcd0"
+}, {
+    "name": "Salmon Red",
+    "family": "R05",
+    "color": "#f89d85"
+}, {
+    "name": "Vermilion",
+    "family": "R08",
+    "color": "#f46d56"
+}, {
+    "name": "Pale Cherry Pink",
+    "family": "R11",
+    "color": "#ffe8dd"
+}, {
+    "name": "Light Tea Rose",
+    "family": "R12",
+    "color": "#fedccb"
+}, {
+    "name": "Light Rouge",
+    "family": "R14",
+    "color": "#f9a89d"
+}, {
+    "name": "Lipstick Orange",
+    "family": "R17",
+    "color": "#f78f72"
+}, {
+    "name": "Blush",
+    "family": "R20",
+    "color": "#fee0d9"
+}, {
+    "name": "Sardonyx",
+    "family": "R21",
+    "color": "#fcb6ac"
+}, {
+    "name": "Light Prawn",
+    "family": "R22",
+    "color": "#ff9999"
+}, {
+    "name": "Prawn",
+    "family": "R24",
+    "color": "#f57f82"
+}, {
+    "name": "Cadmium Red",
+    "family": "R27",
+    "color": "#f25364"
+}, {
+    "name": "Lipstick Red",
+    "family": "R29",
+    "color": "#ef0047"
+}, {
+    "name": "Pale Yellowish Pink",
+    "family": "R30",
+    "color": "#feeae5"
+}, {
+    "name": "Peach",
+    "family": "R32",
+    "color": "#fcccc4"
+}, {
+    "name": "Coral",
+    "family": "R35",
+    "color": "#f57a8a"
+}, {
+    "name": "Carmine",
+    "family": "R37",
+    "color": "#ed787d"
+}, {
+    "name": "Garnet",
+    "family": "R39",
+    "color": "#d65382"
+}, {
+    "name": "Bougainvillaea",
+    "family": "R43",
+    "color": "#f18f96"
+}, {
+    "name": "Strong Red",
+    "family": "R46",
+    "color": "#e6506d"
+}, {
+    "name": "Currant",
+    "family": "R56",
+    "color": "#c36679"
+}, {
+    "name": "Cardinal",
+    "family": "R59",
+    "color": "#c55f7c"
+}, {
+    "name": "Rose Pink",
+    "family": "R81",
+    "color": "#f6d4dc"
+}, {
+    "name": "Rose Mist",
+    "family": "R83",
+    "color": "#f5aabf"
+}, {
+    "name": "Rose Red",
+    "family": "R85",
+    "color": "#de769a"
+}, {
+    "name": "Dark Red",
+    "family": "R89",
+    "color": "#91354d"
+}, {
+    "name": "Pale Chiffon",
+    "family": "YR0000",
+    "color": "#fcf6eb"
+}, {
+    "name": "Silk",
+    "family": "YR000",
+    "color": "#fff1e1"
+}, {
+    "name": "Powder Pink",
+    "family": "YR00",
+    "color": "#fedfc7"
+}, {
+    "name": "Peach Puff",
+    "family": "YR01",
+    "color": "#fdd6b7"
+}, {
+    "name": "Light Orange",
+    "family": "YR02",
+    "color": "#ffe4cf"
+}, {
+    "name": "Chrome Orange",
+    "family": "YR04",
+    "color": "#ffcf6d"
+}, {
+    "name": "Cadmium Orange",
+    "family": "YR07",
+    "color": "#f67833"
+}, {
+    "name": "Chinese Orange",
+    "family": "YR09",
+    "color": "#f35700"
+}, {
+    "name": "Loquat",
+    "family": "YR12",
+    "color": "#fee391"
+}, {
+    "name": "Caramel",
+    "family": "YR14",
+    "color": "#ffd34c"
+}, {
+    "name": "Pumpkin Yellow",
+    "family": "YR15",
+    "color": "#ffd198"
+}, {
+    "name": "Apricot",
+    "family": "YR16",
+    "color": "#ffc417"
+}, {
+    "name": "Sanguine",
+    "family": "YR18",
+    "color": "#f57335"
+}, {
+    "name": "Yellowish Shade",
+    "family": "YR20",
+    "color": "#ffe9c9"
+}, {
+    "name": "Cream",
+    "family": "YR21",
+    "color": "#f8e5bb"
+}, {
+    "name": "Yellow Ochre",
+    "family": "YR23",
+    "color": "#f2db98"
+}, {
+    "name": "Pale Sepia",
+    "family": "YR24",
+    "color": "#f6dc6b"
+}, {
+    "name": "Tuscan Orange",
+    "family": "YR27",
+    "color": "#d86745"
+}, {
+    "name": "Macadamia nut",
+    "family": "YR30",
+    "color": "#f7edc9"
+}, {
+    "name": "Light Reddish Yellow",
+    "family": "YR31",
+    "color": "#ffe6b2"
+}, {
+    "name": "Spring Orange",
+    "family": "YR61",
+    "color": "#fee2cc"
+}, {
+    "name": "Atoll",
+    "family": "YR65",
+    "color": "#febb65"
+}, {
+    "name": "Orange",
+    "family": "YR68",
+    "color": "#f67700"
+}, {
+    "name": "Mellow Peach",
+    "family": "YR82",
+    "color": "#ffd198"
+}, {
+    "name": "Yellow Fluorite",
+    "family": "Y0000",
+    "color": "#fffef7"
+}, {
+    "name": "Pale Lemon",
+    "family": "Y000",
+    "color": "#fffff6"
+}, {
+    "name": "Barium Yellow",
+    "family": "Y00",
+    "color": "#fffee5"
+}, {
+    "name": "Canary Yellow",
+    "family": "Y02",
+    "color": "#f9f5a0"
+}, {
+    "name": "Acacia",
+    "family": "Y04",
+    "color": "#f3e953"
+}, {
+    "name": "Yellow",
+    "family": "Y06",
+    "color": "#fff772"
+}, {
+    "name": "Acid Yellow",
+    "family": "Y08",
+    "color": "#fff500"
+}, {
+    "name": "Pale Yellow",
+    "family": "Y11",
+    "color": "#fffcd3"
+}, {
+    "name": "Lemon Yellow",
+    "family": "Y13",
+    "color": "#fcf9b7"
+}, {
+    "name": "Cadmium Yellow",
+    "family": "Y15",
+    "color": "#ffee72"
+}, {
+    "name": "Golden Yellow",
+    "family": "Y17",
+    "color": "#ffea55"
+}, {
+    "name": "Lightning Yellow",
+    "family": "Y18",
+    "color": "#fff257"
+}, {
+    "name": "Napoli Yellow",
+    "family": "Y19",
+    "color": "#ffee39"
+}, {
+    "name": "Buttercup Yellow",
+    "family": "Y21",
+    "color": "#fff2c9"
+}, {
+    "name": "Yellowish Beige",
+    "family": "Y23",
+    "color": "#fdeabe"
+}, {
+    "name": "Mustard",
+    "family": "Y26",
+    "color": "#f6e56f"
+}, {
+    "name": "Lionet Gold",
+    "family": "Y28",
+    "color": "#d5b56e"
+}, {
+    "name": "Cashmere",
+    "family": "Y32",
+    "color": "#fbe6ca"
+}, {
+    "name": "Maize",
+    "family": "Y35",
+    "color": "#ffe081"
+}, {
+    "name": "Honey",
+    "family": "Y38",
+    "color": "#ffff99"
+}, {
+    "name": "Lily White",
+    "family": "YG0000",
+    "color": "#f7f9e4"
+}, {
+    "name": "Mimosa Yellow",
+    "family": "YG00",
+    "color": "#eeeba6"
+}, {
+    "name": "Green Bice",
+    "family": "YG01",
+    "color": "#eef2c8"
+}, {
+    "name": "Yellow Green",
+    "family": "YG03",
+    "color": "#eaeeb2"
+}, {
+    "name": "Salad",
+    "family": "YG05",
+    "color": "#e2e999"
+}, {
+    "name": "Yellowish Green",
+    "family": "YG06",
+    "color": "#d3e398"
+}, {
+    "name": "Acid Green",
+    "family": "YG07",
+    "color": "#b6d135"
+}, {
+    "name": "Lettuce Green",
+    "family": "YG09",
+    "color": "#93c560"
+}, {
+    "name": "Mignonette",
+    "family": "YG11",
+    "color": "#ecf3d5"
+}, {
+    "name": "Chartreuse",
+    "family": "YG13",
+    "color": "#dfe9a6"
+}, {
+    "name": "Grass Green",
+    "family": "YG17",
+    "color": "#85bf4a"
+}, {
+    "name": "Anise",
+    "family": "YG21",
+    "color": "#f9f8c6"
+}, {
+    "name": "New Leaf",
+    "family": "YG23",
+    "color": "#efef98"
+}, {
+    "name": "Celadon Green",
+    "family": "YG25",
+    "color": "#dce47f"
+}, {
+    "name": "Pale Cobalt  Green",
+    "family": "YG41",
+    "color": "#e1eed9"
+}, {
+    "name": "Cobalt Green",
+    "family": "YG45",
+    "color": "#c5e0be"
+}, {
+    "name": "Pale Moss",
+    "family": "YG61",
+    "color": "#b7ca90"
+}, {
+    "name": "Pea Green",
+    "family": "YG63",
+    "color": "#b5d2ab"
+}, {
+    "name": "Moss",
+    "family": "YG67",
+    "color": "#97c592"
+}, {
+    "name": "Putty",
+    "family": "YG91",
+    "color": "#e4dfb8"
+}, {
+    "name": "Grayish Yellow",
+    "family": "YG93",
+    "color": "#dedba6"
+}, {
+    "name": "Pale Olive",
+    "family": "YG95",
+    "color": "#dbd267"
+}, {
+    "name": "Spanish Olive",
+    "family": "YG97",
+    "color": "#aaa000"
+}, {
+    "name": "Marine Green",
+    "family": "YG99",
+    "color": "#6a7800"
+}, {
+    "name": "Crystal Opal",
+    "family": "G0000",
+    "color": "#f6faf6"
+}, {
+    "name": "Pale Green",
+    "family": "G000",
+    "color": "#f7fbf7"
+}, {
+    "name": "Jade Green",
+    "family": "G00",
+    "color": "#eaf5f6"
+}, {
+    "name": "Spectrum Green",
+    "family": "G02",
+    "color": "#dbecd9"
+}, {
+    "name": "Meadow Green",
+    "family": "G03",
+    "color": "#b0de7f"
+}, {
+    "name": "Emerald Green",
+    "family": "G05",
+    "color": "#7dc079"
+}, {
+    "name": "Nile Green",
+    "family": "G07",
+    "color": "#8fc676"
+}, {
+    "name": "Veronese Green",
+    "family": "G09",
+    "color": "#8fc460"
+}, {
+    "name": "Sea Green",
+    "family": "G12",
+    "color": "#deeccb"
+}, {
+    "name": "Apple Green",
+    "family": "G14",
+    "color": "#aad294"
+}, {
+    "name": "Malachite",
+    "family": "G16",
+    "color": "#76c19c"
+}, {
+    "name": "Forest Green",
+    "family": "G17",
+    "color": "#27ae7d"
+}, {
+    "name": "Bright Parrot Green",
+    "family": "G19",
+    "color": "#49b68a"
+}, {
+    "name": "Wax White",
+    "family": "G20",
+    "color": "#f2f7e0"
+}, {
+    "name": "Lime Green",
+    "family": "G21",
+    "color": "#d3e8d3"
+}, {
+    "name": "Willow",
+    "family": "G24",
+    "color": "#d1e4bb"
+}, {
+    "name": "Ocean Green",
+    "family": "G28",
+    "color": "#239665"
+}, {
+    "name": "Pine Tree Green",
+    "family": "G29",
+    "color": "#3e8667"
+}, {
+    "name": "Dim Green",
+    "family": "G40",
+    "color": "#ecf4e3"
+}]
